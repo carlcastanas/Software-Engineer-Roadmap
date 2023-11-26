@@ -1,5 +1,18 @@
 ![Banner Image](https://github.com/carlcastanas/Software-Engineer-Roadmap/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner%20(1).gif)
-# Comprehensive Roadmap to <br> Becoming a Software Engineer
+
+<div align="center">
+  <img src="./assets/img/image.gif" alt="Icreatechs Logo">
+  <h3>Icreatechs IT Curriculum and Training Guide</h3>
+  <div align="center">
+     
+[![GitHub Stars](https://img.shields.io/github/stars/carlcastanas/IT-curriculum-guide)]([https://github.com/carlcastanas/IT-curriculum-guide](https://github.com/carlcastanas/Software-Engineer-Roadmap/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/carlcastanas/IT-curriculum-guide)]([https://github.com/carlcastanas/IT-curriculum-guide](https://github.com/carlcastanas/Software-Engineer-Roadmap/network/members)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/company/icreatechs-aus)](https://www.linkedin.com/company/icreatechs-aus)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carlcastanas.IT-curriculum-guide)
+
+</div>
+
+</div>
 
 Welcome to the dynamic and ever-evolving field of software engineering! As a software engineer, you'll be at the forefront of technological innovation, contributing to the design, development, and maintenance of the software that powers our digital world. This comprehensive roadmap will guide you through the essential steps and skills required to embark on a successful career in software engineering.
 
