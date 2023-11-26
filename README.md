@@ -1,4 +1,4 @@
-![Banner Image](URL_TO_YOUR_BANNER_IMAGE)
+![Banner Image](https://github.com/carlcastanas/Software-Engineer-Roadmap/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner%20(1).gif)
 # Comprehensive Roadmap to <br> Becoming a Software Engineer
 
 Welcome to the dynamic and ever-evolving field of software engineering! As a software engineer, you'll be at the forefront of technological innovation, contributing to the design, development, and maintenance of the software that powers our digital world. This comprehensive roadmap will guide you through the essential steps and skills required to embark on a successful career in software engineering.
