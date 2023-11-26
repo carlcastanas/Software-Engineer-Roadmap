@@ -2,13 +2,13 @@
 
 <div align="center">
   <img src="./assets/img/image.gif" alt="Icreatechs Logo">
-  <h3>Icreatechs IT Curriculum and Training Guide</h3>
+  <h3>Software Engineer Roadmap</h3>
   <div align="center">
 
-[![GitHub Stars](https://img.shields.io/github/stars/carlcastanas/IT-curriculum-guide)](https://github.com/carlcastanas/Software-Engineer-Roadmap/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/carlcastanas/IT-curriculum-guide)](https://github.com/carlcastanas/Software-Engineer-Roadmap/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/carlcastanas/Software-Engineer-Roadmap)](https://github.com/carlcastanas/Software-Engineer-Roadmap/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/carlcastanas/Software-Engineer-Roadmap)](https://github.com/carlcastanas/Software-Engineer-Roadmap/network/members)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/company/icreatechs-aus)](https://www.linkedin.com/company/icreatechs-aus)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carlcastanas.IT-curriculum-guide)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carlcastanas.Software-Engineer-Roadmap)
 
 
 </div>
