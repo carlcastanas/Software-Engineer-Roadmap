@@ -1,6 +1,5 @@
 ![Banner Image](https://github.com/carlcastanas/Software-Engineer-Roadmap/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner%20(1).gif)
 <div align="center">
-  <h1>Software Engineer Roadmap</h1>
   <div align="center">
 
 [![GitHub Stars](https://img.shields.io/github/stars/carlcastanas/Software-Engineer-Roadmap)](https://github.com/carlcastanas/Software-Engineer-Roadmap/stargazers)
