@@ -162,6 +162,8 @@ Welcome to the dynamic and ever-evolving field of software engineering! As a sof
 ### Mentorship and Coaching
 1. **Seek Mentorship:** Connect with experienced professionals in the field for guidance and mentorship.
 2. **Coaching Programs:** Explore coaching programs and platforms for personalized career development.
+   
+For mentorship inquiries, feel free to [message me on Messenger](https://www.messenger.com/t/carlcastanas).
 
 ### Career Advancement
 1. **Leadership Opportunities:** Explore leadership roles as you gain experience.
