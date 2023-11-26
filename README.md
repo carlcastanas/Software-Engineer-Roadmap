@@ -1,4 +1,4 @@
-# Comprehensive Roadmap to Becoming a Software Engineer
+# Comprehensive Roadmap to <br> Becoming a Software Engineer
 
 Welcome to the dynamic and ever-evolving field of software engineering! As a software engineer, you'll be at the forefront of technological innovation, contributing to the design, development, and maintenance of the software that powers our digital world. This comprehensive roadmap will guide you through the essential steps and skills required to embark on a successful career in software engineering.
 
@@ -124,13 +124,13 @@ Welcome to the dynamic and ever-evolving field of software engineering! As a sof
 ## Building a Portfolio and Networking
 
 ### Portfolio Development
-1. **GitHub Profile:** Showcase your projects and contributions on a well-maintained GitHub profile.
+1. **GitHub Profile:** Showcase your projects and contributions on a well-maintained GitHub profile. Follow me on GitHub at [carlcastanas](https://github.com/carlcastanas) for potential collaboration opportunities.
 2. **Personal Website:** Create a professional website highlighting your skills, projects, and experiences.
 3. **Project Descriptions:** Clearly document your projects, including technologies used, challenges faced, and solutions implemented.
 4. **Code Quality:** Emphasize clean, well-documented code with attention to best practices.
 
 ### Networking
-1. **LinkedIn:** Build a strong LinkedIn profile, connecting with professionals in the field.
+1. **LinkedIn:** Build a strong LinkedIn profile, connecting with professionals in the field. Connect with me on LinkedIn at [carlcastanas](https://www.linkedin.com/in/carlcastanas/) for potential referral and job opportunities.
 2. **Online Communities:** Join relevant communities such as [Stack Overflow](https://stackoverflow.com/) and [Dev.to](https://dev.to/) to engage with the software development community.
 3. **Meetups and Conferences:** Attend local and virtual meetups, conferences, and workshops to network with industry experts and fellow developers.
 4. **Open Source Contributions:** Contribute to open-source projects to showcase your collaborative skills and expand your network.
